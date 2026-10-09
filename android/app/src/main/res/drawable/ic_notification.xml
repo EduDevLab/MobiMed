@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Pastilla/cápsula (debe ser blanca y monocroma para el icono pequeño) -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M2,7a5,5 0 0 0 0,10h20a5,5 0 0 0 0,-10z" />
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M2,12h20" />
+</vector>
